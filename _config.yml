@@ -47,8 +47,8 @@ author:
     - name: vk
       url:
 home:
-  section1: <h1>test home</h1>
-  section2: <h2>test home sections</h2>
+  section1: <h1>THE KYM'S BLOG</h1> # home uppage title
+  section2: <h2>Share developer's history</h2>
   section3: <div class="social-links"><a class="ico-github" href="https://github.com/wps-5th" title="View on GitHub"></a></div>
 #blog:
 #  cc_license: http://creativecommons.org/licenses/by-sa/4.0/ # A link to CC License
